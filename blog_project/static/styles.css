@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+    padding: 5px;
+    background: orange;
+}
+
+body{
+    background-color: rgb(151, 8, 151);
+    color: black;
+}
+
+.title{
+    color: black;
+    font-size: larger;
+}
+
+.title:hover{
+    color: yellow;
+}
